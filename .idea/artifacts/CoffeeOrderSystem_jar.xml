@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CoffeeOrderSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CoffeeOrderSystem_jar</output-path>
+    <root id="archive" name="CoffeeOrderSystem.jar">
+      <element id="module-output" name="CoffeeOrderSystem" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/sqlite-jdbc-3.36.0.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
